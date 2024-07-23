@@ -1,0 +1,26 @@
+{
+  "name": "alx-backend-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuri-deutsh/alx-backend-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuri-deutsh/alx-backend-javascript/issues"
+  },
+  "homepage": "https://github.com/yuri-deutsh/alx-backend-javascript#readme",
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/preset-env": "^7.14.7",
+    "eslint": "^7.32.0",
+    "jest": "^27.0.6"
+  }
+}
